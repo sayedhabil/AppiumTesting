@@ -1,2 +1,2 @@
 # AppiumTesting
-Untuk memenuhi UAS mata kuliah KPL
+Untuk memenuhi UAS mata kuliah KPL.
